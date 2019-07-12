@@ -1,0 +1,1 @@
+% integration of sin(x) with domain [0,y]

@@ -1,0 +1,1 @@
+% integration of x^2 with lower bound a = 1 for integration domain
