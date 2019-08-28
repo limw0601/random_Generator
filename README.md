@@ -5,7 +5,7 @@ Given a probability density function (pdf) f(x), the corresponding cumulative de
 
 Based on the above observation, we use continuation to find {x_i}. Note $F(x)$ is a monotonic incresing function of x. Suppose x\in[a,b], continuation is started from x=a until x=b. In such continuation, F(x) is incresing and event handler is used to identify F_i. The corresponding x_i is the desired random number.
 
-Continuation method is implemented in COCO, a MATLAB-based toolbox for numerical continuation. Please refer https://sourceforge.net/projects/cocotools/ for the info and installation of COCO. To use the code in this repository, you need first install COCO and then put the randomGenerator folder in this repository to ...\coco. If you have any questions regarding the use of the code, you may reach me at mingwul2@illinois.edu.
+Continuation method is implemented in COCO, a MATLAB-based toolbox for numerical continuation. Please refer https://sourceforge.net/projects/cocotools/ for the info and installation of COCO. To use the code in this repository, you need first install COCO and then put the randomGenerator folder in this repository to directory...\coco. If you have any questions regarding the use of the code, you may reach me at mingwul2@illinois.edu.
 
 For citation, please cite the following two papers.
 
